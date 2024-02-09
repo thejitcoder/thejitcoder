@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasanjit Bhanja
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Data structure and algorith
+- 🌱 I’m currently learning Data structure and algorithms 
 - 📫 How to reach me prasanjitbhanja743@gmail.com
 - ⚡ Fun fact: I'm transforming my carrier from Commerce grad to Software Engineer🧑‍💻
 
